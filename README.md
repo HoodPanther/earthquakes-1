@@ -1,2 +1,0 @@
-# earthquakes
-Seismic data analysis
